@@ -77,6 +77,5 @@
           break;
         default:
           console.log(buttonInnerHTML);
-      }})}
-    });
-  }
+      }});}
+    
